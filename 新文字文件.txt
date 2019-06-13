@@ -1,0 +1,14 @@
+browser-sync start --server --directory --files "*"  開啟browser-sync
+git add .
+git commit -m "message"
+git push
+git pull
+git checkout
+git status
+
+< &ly;
+> &gt;
+& &amp;
+(c) &copy;
+換行不分開 &nbsp;
+" &quot;
